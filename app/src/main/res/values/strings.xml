@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Calculadora</string>
+    <string name="firs_name">Firs Name</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="add">ADD</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="divide">DIVIDE</string>
+    <string name="multiply">MULTIPLY</string>
+</resources>
